@@ -1,4 +1,4 @@
-### Hi there , David Here 👋
+### Hi there 👋
 
 
 <!--
