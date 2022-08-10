@@ -3,13 +3,13 @@
 
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github-readme-stats.vercel.app/api?username=obododavid&count_private=true&show_icons=true&theme=merko"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=obododavid&count_private=true&show_icons=true&theme=merko"/>
   </a>
 </p>
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=obododavid&hide=TeX&layout=compact&theme=merko"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=obododavid&hide=TeX&layout=compact&theme=merko"/>
   </a>
 </p>
