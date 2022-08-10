@@ -3,6 +3,12 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=obododavid&count_private=true&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obododavid&hide=TeX&layout=compact&theme=merko)
 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
 - 👯 I’m looking to collaborate on React.js/Next.js Projects...
 - 🌱 I’m currently learning Solidity and techs in the Web3 ecosystem...
 - 📫 How to reach me: Definitely my email
