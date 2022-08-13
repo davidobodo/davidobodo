@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A software developer addicted to front-end development, but capable of full-stack development when needed 😜</h3>
+
+## 💬 Ask me about
+- Frontend web development (React.js/Next.js and techs in its ecosystem)
+- Backend Development (Node.js)
+- Any Marvel Studios movie 😂
+- Playing the bass guitar 🎸
+
+
 [![Obodo David's Github Stats](https://activity-graph.herokuapp.com/graph?username=obododavid&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/obododavid)
 
 
@@ -14,7 +23,4 @@
   </a>
 </p>
 
-- 👯 I’m looking to collaborate on React.js/Next.js Projects...
-- 🌱 I’m currently learning Solidity and techs in the Web3 ecosystem...
-- 📫 How to reach me: Definitely my email
 
