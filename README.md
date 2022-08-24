@@ -10,7 +10,8 @@
 ## 💬 Ask me about
 - Frontend web development (React.js/Next.js and techs in its ecosystem)
 - Backend Development (Node.js)
-- Any Marvel Studios movie 😂
+- Marvel Universe movie 😂
+- George RR Martins works 🗡
 - Playing the bass guitar 🎸
 
 
