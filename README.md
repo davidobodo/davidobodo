@@ -1,6 +1,6 @@
 <p align="center">
     <a href="www.obododavid.com">
-        <img src="https://res.cloudinary.com/phitgeek/image/upload/v1661356997/Logo.png"/>
+        <img src="https://res.cloudinary.com/phitgeek/image/upload/c_thumb,w_100,g_face/v1661356997/Logo.png"/>
     </a>
 </p>
 
