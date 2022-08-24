@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="www.obododavid.com">
+        <img src="https://res.cloudinary.com/phitgeek/image/upload/v1661356997/Logo.png"/>
+    </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A software developer addicted to front-end development, but capable of full-stack development when needed 😜</h3>
 
