@@ -11,7 +11,7 @@
 - Frontend web development (React.js/Next.js and techs in its ecosystem)
 - Backend Development (Node.js)
 - Marvel Universe movie 😂
-- George RR Martins works 🗡
+- George RR Martin's works 🗡
 - Playing the bass guitar 🎸
 
 
