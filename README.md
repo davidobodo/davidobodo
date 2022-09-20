@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.davidobodo.com" target="_blank">
+    <a href="https://www.obododavid.com" target="_blank">
         <img src="https://res.cloudinary.com/phitgeek/image/upload/c_thumb,w_100,g_face/v1661356997/Logo.png"/>
     </a>
 </p>
