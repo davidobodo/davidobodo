@@ -15,6 +15,11 @@
 
 <!-- [![David Obodo's Github Stats](https://activity-graph.herokuapp.com/graph?username=davidobodo&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/davidobodo) -->
 
+<img
+  src="https://github.com/<username>/davidobodo/blob/master/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko"/>
