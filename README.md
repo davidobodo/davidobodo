@@ -34,10 +34,10 @@
 
 - **ME**: Where you not even bored the other day and started playing with [React Native](https://reactnative.dev/) for Mobile app development
 
-- **MY BRAIN**: (Takes a bite of some glucose 🍗)
+- **MY BRAIN**: (Takes a bite of some glucose 🍗 for the left hemisphere)
 
 - **ME**: All I'm saying is that we can't list all the frameworks here, cause they keep growing since technology keeps evolving
-- **MY BRAIN**: Whatever you say 😤
+- **MY BRAIN**: Whatever you say 😤. Just guide them to your [dedicated projects page on your portfolio](https://www.davidobodo.com/projects?open_filter=true)
 
 &nbsp;
 
