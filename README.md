@@ -3,6 +3,8 @@
 <img src="excellence.png" />
 </p>
 
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+
 <p>Certainly what I strive for in all I do, well who doesn't love things done excellently 😅</p>
 
 <!-- ## 💬 Ask me about
@@ -14,6 +16,8 @@
 - Playing the bass guitar 🎸 -->
 
 <!-- [![David Obodo's Github Stats](https://activity-graph.herokuapp.com/graph?username=davidobodo&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/davidobodo) -->
+
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko"> 
