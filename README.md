@@ -50,8 +50,11 @@
 [Check out my blog](https://blog.davidobodo.com/)
 
 - **MY BRAIN**: Why didn't you also use a fancy sheild image for your blog like you did for Twitter and Linkedin?
+
 - **ME**:🙄 Cause [shields.io](https://shields.io/) didn't have one
+
 - **MY BRAIN**: Then create it for them 😤
+
 - **ME**: Really 😳😳😳😳
 
 &nbsp;
@@ -64,10 +67,17 @@
 ![Profile views](https://gpvc.arturio.dev/davidobodo)
 
 - **MY BRAIN**: Shouldn't profile views be something only us can see?
+
 - **ME**: Well this was the most stressfree way, besides if you wanted it privately so bad you could have given me the idea🤷🏽
+
 - **MY BRAIN**: Errm not ready for that, besides this is perfectly fine . Hope you gave them a star?
+
 - **ME**: Yeah I sure did [here](https://github.com/hehuapei/visitor-badge)
+
 - **ME**: Would have added some more, like Recent activity, Github Statistics e.t.c but they don't track things done in Organizations's private repositories
+
 - **MY BRAIN**: So the lovely people won't see all the work you did there right?
+
 - **ME**: Yes they won't 😭😭😭😭
+
 - **MY BRAIN**: Don't cry 🤣🤣🤣🤣, the work and contribution belongs to the organization
