@@ -2,45 +2,43 @@
 <p align="center">
 <img src="excellence.png" />
 </p>
-
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<!-- 
+<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3> -->
 
 <p>Certainly what I strive for in all I do, well who doesn't love things done excellently 😅</p>
 
-<!-- ## 💬 Ask me about
+<h3>
+What happened the the other day
+</h3>
 
-- Frontend web development (React.js/Next.js and techs in its ecosystem)
-- Backend Development (Node.js)
-- Marvel Universe movie 😂
-- George RR Martin's works 🗡
-- Playing the bass guitar 🎸 -->
+Me: In love with all things Typescript
+My Brain: No it's Javascript
+Me: But it's typescript we mostly write ?
+My Brain: Its Just Javascript with types, so you should actually tell them its Javascript
+Me: But they are still different now ?
+My Brain: C'mon let's not do this all day 😫. If you are being sincere with them we actually write even mofe than just the typescript you are talking about.
+Didn't we spend a huge chunk of our time converting a design into pixel perfect pages with HTML, CSS & SASS ?
+And even though React.js and Next.js are frameworks haven't we spent a lot of time building enterprise grade applications but personally and with teams using them ?
+Don't even get me started on the various amount of times we have used Jest and React Testing Library to write tests  
+Me: But what you are doing now, is mentioning frameworks and tools built with the language, I was only telling them about the language 😤
+My Brain: We had this discussion last night, to stil tell them about the various frameworks we've used and are now using
+Me: But we didn't reach a conclusion because they are a lot. In Frontend there's still Chakra UI, Styled Components, Semantic UI, Bootstrap, React Query, Redux, GraphQL, GSAP, Material UI, Three.js, Tailwind CSS, Storybook even old man JQuery. Thereafter let's not forget backend where we used Express.js, Node.js, Mongo DB, GCP and since you are always curious you even went along to start learning Solidity and Web3 stuffs.
+All I'm saying is that we can't list all the frameworks here, cause they keep growing since technology keeps evolving
+My Brain: Whatever you say 😤
 
-<!-- [![David Obodo's Github Stats](https://activity-graph.herokuapp.com/graph?username=davidobodo&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/davidobodo) -->
+<p>Please Ignore my brain, always acting up sometimes. You can check my portfolio for dome of my detailed works.    </p>
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
-
-<p>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko"> 
+<!-- <p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidobodo&hide=TeX&layout=compact&theme=merko"/>
   </a>
-</p>
+</p> -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=davidobodo.davidobodo)
-![Profile views](https://gpvc.arturio.dev/davidobodo)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/phitGeek) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/david-obodo-998786174)
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[Check out my blog](https://blog.davidobodo.com/)
 
----
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!-- 1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode) -->
-<!--END_SECTION:activity-->
-
----
+My Brain: Why didn't you also use a fancy sheild image for your blog like you did for Twitter and Linkedin
+Me: Cause shield https://shields.io/ didn't have one
+My Brain: Then create it for them 😤
+Me: Really 😳😳😳😳
