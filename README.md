@@ -18,7 +18,7 @@
 - **MY BRAIN**: Its Just [Javascript](https://en.wikipedia.org/wiki/JavaScript) with types, so you should actually tell people its [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 - **ME**: But they are still different now
 - **MY BRAIN**: C'mon let's not do this all day 😫. If you are being sincere, we actually write even more than just the [Typescript](https://www.typescriptlang.org) you hold so dearly.
-  Don't we spend a huge chunk of our time converting a design into pixel perfect pages with [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) & [SASS](https://sass-lang.com/)?
+  Don't we spend a huge chunk of our time converting designs into pixel perfect pages with [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS) & [SASS](https://sass-lang.com/)?
 
   And even though [React.js](https://reactjs.org/) and [Next.js](https://nextjs.org/) are frameworks, haven't we spent a lot of time building enterprise grade applications both personally and with teams using them?
 
@@ -26,7 +26,7 @@
 
 - **ME**: You are now mentioning frameworks and tools built with the language, I was only telling them about the language 😤
 - **MY BRAIN**: I thought we had this discussion last night to still tell them about the various frameworks we've used and are still using so what are you saying?🤦🏽
-- **ME**: We didn't reach a conclusion because there are lots of frameworks. In `frontend` there's still [Chakra UI](https://chakra-ui.com/), [Styled Components](https://styled-components.com/), [Semantic UI](https://semantic-ui.com/), [Material UI](https://mui.com/), [Bootstrap](https://getbootstrap.com/), [React Query](https://tanstack.com/query/v4/docs/overview), [Redux](https://redux.js.org/), [GraphQL](https://graphql.org/), [GSAP](https://greensock.com/gsap/), [Three.js](https://threejs.org/), [Tailwind CSS](https://tailwindcss.com/), [Storybook](https://storybook.js.org/), even old man legend [JQuery](https://jquery.com/).
+- **ME**: We didn't reach a conclusion because there are lots of frameworks we have used and are still using. In `frontend` there's still [Chakra UI](https://chakra-ui.com/), [Styled Components](https://styled-components.com/), [Semantic UI](https://semantic-ui.com/), [Material UI](https://mui.com/), [Bootstrap](https://getbootstrap.com/), [React Query](https://tanstack.com/query/v4/docs/overview), [Redux](https://redux.js.org/), [GraphQL](https://graphql.org/), [GSAP](https://greensock.com/gsap/), [Three.js](https://threejs.org/), [Tailwind CSS](https://tailwindcss.com/), [Storybook](https://storybook.js.org/), even old man legend [JQuery](https://jquery.com/).
 
   Thereafter let's not forget `backend` where we use [Express.js](https://expressjs.com/), [Node.js](https://nodejs.org/en/), [Mongo DB](https://www.mongodb.com/), [GCP](https://cloud.google.com/) and since you are always curious, you even went along to start learning [Solidity](https://docs.soliditylang.org/) and [Web3](https://en.wikipedia.org/wiki/Web3) stuff.
 
@@ -75,9 +75,9 @@
 
 - **ME**: Yeah I sure did [here](https://github.com/hehuapei/visitor-badge).
 
-- **ME**: I Would have added some more, like Recent activity, Github Statistics e.t.c but they don't track things done in organizations "private" repositories.
+- **ME**: I Would have added some more analytics, like Recent activity, Github Statistics e.t.c but they don't track things done in organizations "private" repositories.
 
-- **MY BRAIN**: So the lovely people won't see all the work you did there right?
+- **MY BRAIN**: Oh that's true. So the lovely people won't see all the work you did there right?
 
 - **ME**: Yes they won't 😭😭😭😭.
 
