@@ -1,5 +1,5 @@
 <h1 >Hello 👋</h1>
-<h3 align='center'><strong><a href="https://www.davidobodo.com/" target="_blank">davidobodo.com</a></strong></h3>
+<h3 align='center'><strong><a href="https://davidobodo.liquidargent.com/" target="_blank">davidobodo.liquidargent.com</a></strong></h3>
 
 <p align="center">
 <img src="excellence.png" />
@@ -7,7 +7,7 @@
 
 <p align="center">Certainly what I strive for in all I do. Well who doesn't love things done excellently? 😅</p>
 
-<h3 align='center'><strong><a href="https://www.davidobodo.com/" target="_blank">davidobodo.com</a></strong></h3>
+<h3 align='center'><strong><a href="https://davidobodo.liquidargent.com/" target="_blank">davidobodo.liquidargent.com</a></strong></h3>
 &nbsp;
 
 ## What happened the other day
@@ -37,17 +37,17 @@
 - **MY BRAIN**: (Takes a bite of glucose 🍗 for the left hemisphere)
 
 - **ME**: All I'm saying is that we can't list all the frameworks here, because they keep growing since technology keeps evolving.
-- **MY BRAIN**: Whatever you say 😤. Just guide them to your [dedicated projects page on your portfolio](https://www.davidobodo.com/projects?open_filter=true).
+- **MY BRAIN**: Whatever you say 😤. Just guide them to your [dedicated projects page on your portfolio](https://davidobodo.liquidargent.com/projects?open_filter=true).
 
 &nbsp;
 
-<h3 align='center'><strong><a href="https://www.davidobodo.com/" target="_blank">davidobodo.com</a></strong></h3>
+<h3 align='center'><strong><a href="https://davidobodo.liquidargent.com/" target="_blank">davidobodo.liquidargent.com</a></strong></h3>
 
 ## Get in touch
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/phitGeek) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/david-obodo-998786174)
 
-[Check out my blog](https://blog.davidobodo.com/)
+[Check out my blog](https://blog.davidobodo.liquidargent.com/)
 
 - **MY BRAIN**: Why didn't you also use a fancy shield image for your blog like you did for Twitter and Linkedin?
 
@@ -59,7 +59,7 @@
 
 &nbsp;
 
-<h3 align='center'><strong><a href="https://www.davidobodo.com/" target="_blank">davidobodo.com</a></strong></h3>
+<h3 align='center'><strong><a href="https://davidobodo.liquidargent.com/" target="_blank">davidobodo.liquidargent.com</a></strong></h3>
 
 ## Who doesn't love analytics ?
 
